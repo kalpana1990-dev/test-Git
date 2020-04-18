@@ -2,4 +2,4 @@ echo "test6";
 
 echo "branching";
 
-echo "remote editing";
+echo "remote editing2";
